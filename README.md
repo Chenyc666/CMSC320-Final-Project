@@ -1,7 +1,7 @@
 # CMSC320-Final-Project
 
 
-Project: Student GPA Prediction using Advanced Data Science Techniques
+Project: Student GPA Prediction by using Advanced Data Science Techniques
 
 Welcome to the Student GPA Prediction project repository. This project focuses on utilizing advanced data science techniques to predict students' GPA based on their provided information.
 
