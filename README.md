@@ -1,6 +1,6 @@
 # CMSC320-Final-Project
 
-Welcome to the CMSC320 Final Project Student GPA Prediction project repository. This project focuses on utilizing advanced data science techniques to predict students' GPA based on their provided information.
+Welcome to the 2023 Spring CMSC320 Final Project Student GPA Prediction project repository. This project focuses on utilizing advanced data science techniques to predict students' GPA based on their provided information.
 
 # Objective:
 The primary objective of this project is to develop and compare predictive models capable of accurately estimating a student's GPA. Leveraging a diverse set of features, we aim to deliver a robust solution that aids educational institutions in foreseeing academic outcomes.
