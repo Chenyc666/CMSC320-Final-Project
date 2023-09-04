@@ -19,8 +19,6 @@ Contributions are highly encouraged and can be made by forking the repository, i
 
 Join us on this journey of harnessing data science to unlock insights and improve educational outcomes. Together, we strive to create a predictive model that shapes the future of student success.
 
-Let's predict better, together
-
 Note: This repository is under active development. Please refer to the Issues section for ongoing tasks and discussions.
 # The Dataset
 Download the following dataset: https://drive.google.com/file/d/14jkgeXF1_0U446EWP1Ee8L8UoJM53TYg/view?usp=sharing
